@@ -1,3 +1,10 @@
+//EECS 348 Assignment 1
+//C program that picks a secret number between 1 and 10.
+//The user gets up to 3 tries to guess the number.
+//Inputs: The users guess via terminal
+//Output: Validity checking / correct (or incorrect guess) via terminal
+//ChatGPT, Gemini
+//Logan Kessler
 #include <stdio.h>
 
 int main() {
